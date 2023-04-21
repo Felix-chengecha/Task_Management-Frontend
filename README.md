@@ -9,8 +9,8 @@ View a list of tasks belonging to a specific user
 Create, update, and delete tasks
 Register, log in, and log out of the application
 
-## Installation
-1.Clone the repository: git clone https://github.com/[username]/vuejs-task-management-frontend.git
+## installation 
+1.clone this repo
 2.Navigate to the project directory: cd vuejs-task-management-frontend
 3.Install dependencies: npm install
 
